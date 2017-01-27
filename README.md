@@ -1,5 +1,5 @@
 Mycat-download
 ==============
-由于最近从build服务器发布到github非常慢，所以1.6版本请从以下加速地址下载
+由于github限制，所以以后新版本从以下地址下载
 
-<A HREF="http://dl.mycat.io/1.6-RELEASE/">http://dl.mycat.io/1.6-RELEASE/</A>
+<A HREF="http://dl.mycat.io">http://dl.mycat.io</A>
